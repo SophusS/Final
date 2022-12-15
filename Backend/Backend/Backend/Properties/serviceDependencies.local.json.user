@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-12-15T05:38:15.0665754Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-12-15T05:38:08.0134449Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "0a072980-54ec-4db9-80b4-6304e2a0db97"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "BarcodeBackend"
+    }
+  }
+}
